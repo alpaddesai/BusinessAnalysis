@@ -8,3 +8,15 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 
 ![image](Basic_elements.png)
 
+## Project Management
+
+![image](PMP.png)
+
+## User Requirements
+![image](UseCase.png)
+
+## Business Case Analysis
+![image](UseCaseAnalysis.png)
+
+## Testing 
+![image](WebApplication.png)
