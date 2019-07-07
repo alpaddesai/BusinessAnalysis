@@ -5,4 +5,6 @@ https://github.com/alpaddesai/TechnicalProductManagement/releases. Company confi
 All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom. Copyright protection in process.
 
 ## Basic Elements
-![image](Basic elements.png)
+
+![image](Basic_elements.png)
+
