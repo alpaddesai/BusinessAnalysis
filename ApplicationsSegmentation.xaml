@@ -1,0 +1,13 @@
+﻿<Window x:Class="ProductManagement.ApplicationsSegmentation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProductManagement"
+        mc:Ignorable="d"
+        Title="ApplicationsSegmentation" Height="724.049" Width="711.247" MaxWidth="711" MaxHeight="724">
+    <Grid Margin="0,0,20,17">
+        <Image HorizontalAlignment="Left" Height="665" Margin="16,1,-4,0" VerticalAlignment="Top" Width="671" Source="ApplicationSegmentation.png"/>
+
+    </Grid>
+</Window>

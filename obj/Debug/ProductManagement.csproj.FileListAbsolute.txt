@@ -1,0 +1,34 @@
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ApplicationsSegmentation.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\BusinessRequirementsDocument.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\CompanyProductDistributionMap.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\MainWindow.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\MarketSegmentation.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\PMP.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\StrategicGoals.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\UseCaseAnalysis.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\UserCase.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\App.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement_MarkupCompile.cache
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement_MarkupCompile.lref
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ApplicationsSegmentation.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\BusinessRequirementsDocument.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\CompanyProductDistributionMap.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\MainWindow.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\MarketSegmentation.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\PMP.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\StrategicGoals.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\UseCaseAnalysis.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\UserCase.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.g.resources
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\CustomerUsabilityResearch.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\CustomerUsabilityResearch.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\Web Application .g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Debug\Web Application .baml

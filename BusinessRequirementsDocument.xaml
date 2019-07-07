@@ -1,0 +1,113 @@
+﻿<Window x:Class="ProductManagement.BusinessRequirementsDocument"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProductManagement"
+        mc:Ignorable="d"
+        Title="BusinessRequirementsDocument" Height="467.661" Width="704.181" MaxWidth="701" MaxHeight="463">
+    <Grid Margin="0,0,-4,-4" MaxWidth="698" MaxHeight="434">
+        <RichTextBox HorizontalAlignment="Left" Height="18" Margin="19,404,0,0" VerticalAlignment="Top" Width="456">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Reference: Determining Project Requirements, Second Edition, Hans Jonasson, 2015"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox HorizontalAlignment="Left" Height="395" Margin="4,2,0,0" VerticalAlignment="Top" Width="531" TextChanged="RichTextBox_TextChanged">
+            <FlowDocument>
+                <Paragraph>
+                    <Run FontWeight="Bold" Text="                                                            "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Business Requirements Document" TextDecorations="Underline"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="It's a major deliverable that provides information on "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="business requirements "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text="(business is at the center of the focus), "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="user requirements "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text="(user is at the center of the focus, with use case diagrams, use case scenarios, line of vision and process models, user experience), "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="functional requirements "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text="(place the proposed system at the center of the focus, a list of system capabilities that demonstrates business and user requirements), "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="non-functional requirements "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text="(user interface, access security, availability, robustness, system failure, integration, migration and documentation). "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Business level requirements"/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=":  The requirements must be correlated to strategic, tactical and operational goals. "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Functional level requirements:  "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text="The requirements include flowcharts, context level data flow diagrams, UML based use case diagrams and scenarios and work flow diagrams.  It also provides details on functional requirements that define success factors for the project.  These are closely tied to project's quality plan. "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Quality Plan: "/>
+                    <Run Text=" "/>
+                    <Run Text="Product quality is defined as conformance to documented and approved requirements and specifications.  Excellence is defined as representing the highest level of quality achievable within the time frame of the project. In general the document consists of product vision and scope,  business processes, rules, objectives and constraints including regulator constraints. Non functional requirements include performance, safety, security, quality attributes, user documentation. Data requirements include data models, data flow models and process models. "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Business Analysis: "/>
+                    <Run Text=" "/>
+                    <Run Text="Understand scope, analyze stakeholder, create requirements plan, document requirements and get approvals. "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Requirements Plan:  "/>
+                    <Run Text=" "/>
+                    <Run Text="Similar to the PMP,  main steps include develop risk management approach which includes the following tasks: identify risks, assess risks, respond to risks, monitor and control risks. The requirements plan also includes estimating, Laying out tasks, costing , tracking and reporting. Once a plan is developed a kick off meeting is initiated. "/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button HorizontalAlignment="Left" Margin="550,27,0,0" VerticalAlignment="Top" Width="125" Height="36" Content="Custom Company&#xD;&#xA; Distribution Map" IsDefault="True" Click="Button_Click">
+            <Button.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+            </Button.Background>
+        </Button>
+        <Button Content="Strategic Goals" HorizontalAlignment="Left" Margin="549,80,0,0" VerticalAlignment="Top" Width="126" Height="36" Click="Button_Click_1">
+            <Button.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="MKTSEG" Content="Market Segmentation" HorizontalAlignment="Left" Margin="549,130,0,0" VerticalAlignment="Top" Width="125" Height="36" Click="MKTSEG_Click">
+            <Button.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="AppSeg" Content="Application Segmentation" HorizontalAlignment="Left" Margin="540,179,0,0" VerticalAlignment="Top" Width="144" Height="36" Click="AppSeg_Click" RenderTransformOrigin="0.549,0.694">
+            <Button.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+            </Button.Background>
+        </Button>
+        <RichTextBox HorizontalAlignment="Left" Height="177" Margin="540,222,0,0" VerticalAlignment="Top" Width="150">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Enterprise analysis consists of identifying a business need, problem or opportunity, project investment analysis, defining the business need and case. A SWOT analysis can be a foundation for business strategic goals and plans."/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</Window>

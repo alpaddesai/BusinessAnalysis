@@ -1,0 +1,34 @@
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\bin\Release\ProductManagement.exe.config
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\bin\Release\ProductManagement.exe
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\bin\Release\ProductManagement.pdb
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ApplicationsSegmentation.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\BusinessRequirementsDocument.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\CompanyProductDistributionMap.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\CustomerUsabilityResearch.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\MarketSegmentation.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\PMP.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\StrategicGoals.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\UseCaseAnalysis.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\UserCase.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\Web Application .g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ProductManagement_MarkupCompile.cache
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ProductManagement_MarkupCompile.lref
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ApplicationsSegmentation.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\BusinessRequirementsDocument.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\CompanyProductDistributionMap.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\CustomerUsabilityResearch.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\MarketSegmentation.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\PMP.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\StrategicGoals.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\UseCaseAnalysis.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\UserCase.baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\Web Application .baml
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ProductManagement.g.resources
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ProductManagement.Properties.Resources.resources
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ProductManagement.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ProductManagement.exe
+C:\Users\ADG\source\repos\ProductManagement\ProductManagement\obj\Release\ProductManagement.pdb
