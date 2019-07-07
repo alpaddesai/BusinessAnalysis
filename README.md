@@ -11,7 +11,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](PMP.png)
 
 ## Business Requirements Document
-![image[(BusinessRequirementsDocument.png)
+![image](BusinessRequirementsDocument.png) 
 
 ## Company Product Distribution Map
 ![image](CompanyProductDistributionMap.png)
