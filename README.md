@@ -1,4 +1,4 @@
-# TechnicalProductManagement
+# Technical Product Management
 
 The project provides an overview of the basic elements of product marketing and planning . For details, please click on the executable located in 
 https://github.com/alpaddesai/TechnicalProductManagement/releases. Company confidential information is not displayed. 
