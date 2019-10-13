@@ -34,5 +34,5 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Testing 
 ![image](WebApplication.png)
 
-## Certificate
+## Pragmatic Marketing Certificate
 ![image](PragmaticMarketingCertificate.jpg)
