@@ -35,5 +35,5 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Testing 
 ![image](WebApplication.png)
 
-Additional details https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
+Additional details https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/PowerandInfluentialSkills
 
