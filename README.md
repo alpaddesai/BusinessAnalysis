@@ -38,4 +38,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Interest
 ![image](Image_ter.png)
 
-Additional details reference product management project: https://github.com/alpaddesai/IntroWebDevHealthCareProject
+Additional details reference academic product management project: https://github.com/alpaddesai/IntroWebDevHealthCareProject
