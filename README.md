@@ -38,5 +38,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Interest
 ![image](Image_ter.png)
 
-Additional details https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/PowerandInfluentialSkills
-
+Additional details reference product management project: https://github.com/alpaddesai/IntroWebDevHealthCareProject
