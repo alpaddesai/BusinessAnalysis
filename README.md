@@ -35,4 +35,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Testing 
 ![image](WebApplication.png)
 
-Additional details reference academic product management project: https://github.com/alpaddesai/IntroWebDevHealthCareProject
+Additional details reference academic product management project: https://github.com/alpaddesai/IntroWebDevHealthCareProject and https://github.com/alpaddesai/ProductMarketing
