@@ -35,4 +35,18 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Testing 
 ![image](WebApplication.png)
 
+## Academic Technical Product Management Project
+![image](Slide1.JPG)
+![image](Slide2.JPG)
+![image](Slide3.JPG)
+![image](Slide4.JPG)
+![image](Slide5.JPG)
+![image](Slide6.JPG)
+![image](Slide7.JPG)
+![image](Slide8.JPG)
+![image](Slide9.JPG)
+![image](Slide10.JPG)
+![image](Slide11.JPG)
+![image](Slide12.JPG)
+
 Additional details reference academic product management project: https://github.com/alpaddesai/IntroWebDevHealthCareProject , https://github.com/alpaddesai/Sales and https://github.com/alpaddesai/ProductMarketing
