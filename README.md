@@ -49,4 +49,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](Slide11.JPG)
 ![image](Slide12.JPG)
 
+## Product Manager Certificate
+![image](ProductManager.jpg)
+
 Additional details reference academic product management project: https://github.com/alpaddesai/IntroWebDevHealthCareProject , https://github.com/alpaddesai/Sales and https://github.com/alpaddesai/ProductMarketing
