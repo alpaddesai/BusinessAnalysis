@@ -55,4 +55,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Certification
 ![image](slides.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Additional details reference academic product management project: https://github.com/alpaddesai/IntroWebDevHealthCareProject , https://github.com/alpaddesai/Sales and https://github.com/alpaddesai/ProductMarketing
