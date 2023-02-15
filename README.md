@@ -3,6 +3,8 @@
 The project provides an overview of the basic elements of product marketing and planning . Company confidential information is not displayed. 
 All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom. 
 
+Reference https://github.com/alpaddesai/BusinessAnalysis for details
+
 ## Basic Elements
 ![image](Basic_elements.png)
 
